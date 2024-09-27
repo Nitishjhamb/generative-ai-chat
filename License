@@ -1,0 +1,4 @@
+
+### Additional Notes:
+- Ensure you replace the placeholder API key and model name with actual values before running the application.
+- The project contains both a CLI and a web server. You can choose to run either or both, depending on your needs.
