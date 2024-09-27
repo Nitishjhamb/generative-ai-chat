@@ -30,3 +30,5 @@ npm install
 
 const API_KEY = "//enter-your-Api-key";
 const MODEL_NAME = "// Example Ai-Model"; // Example: "gemini-1.0-pro"
+
+
